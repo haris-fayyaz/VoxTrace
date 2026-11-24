@@ -1,0 +1,12 @@
+dvc
+mlflow
+scikit-learn
+librosa
+soundfile
+pandas
+pyarrow
+pandera
+pyyaml
+pytest
+ruff
+mypy
