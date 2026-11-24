@@ -1,6 +1,8 @@
 .venv/
 mlruns/
 __pycache__/
-data/raw/
-data/processed/
 .env
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
